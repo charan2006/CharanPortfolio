@@ -9,7 +9,7 @@ export const profile = {
   location: 'Hyderabad, India',
   email: 'charan.sattarapu@gmail.com',
   phone: '+91 8008075869',
-  resumeUrl: '#', // add a link to your PDF resume here
+  resumeUrl: 'https://drive.google.com/file/d/1vzt6ScvSfeioINgeULgJ6APAhNJ49QY6/view?usp=sharing', // add a link to your PDF resume here
   socials: [
     { label: 'GitHub', href: 'https://github.com/charan2006' },
     { label: 'LinkedIn', href: 'https://linkedin.com/in/CharanSattarapu' },
