@@ -12,7 +12,7 @@ export const profile = {
   resumeUrl: 'https://drive.google.com/file/d/1vzt6ScvSfeioINgeULgJ6APAhNJ49QY6/view?usp=sharing', // add a link to your PDF resume here
   socials: [
     { label: 'GitHub', href: 'https://github.com/charan2006' },
-    { label: 'LinkedIn', href: 'https://linkedin.com/in/CharanSattarapu' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/charan-sattarapu-b57965338/' },
   ],
 }
 
