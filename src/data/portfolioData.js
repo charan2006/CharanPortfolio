@@ -3,7 +3,7 @@
 
 export const profile = {
   name: 'Charanjeet Sattarapu',
-  role: 'AI Web Engineer',
+  role: 'Full-Stack Web Developer',
   tagline:
     'Building responsive, thoughtful interfaces — and exploring how AI can make them smarter.',
   location: 'Hyderabad, India',
@@ -85,11 +85,11 @@ export const projects = [
 export const workExperience = [
 
   {
-    role: "AI & Full-Stack Web Developer Intern",
+    role: "Full-StacK Web Developer Intern",
     company: "AlgoLeap Technologies",
-    period: "Jun 2025 – Present",
+    period: "Jun 2025 – sep 2025",
     description:
-      "Developing responsive full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Integrating REST APIs and AI-powered features, collaborating with the development team, and building scalable, user-focused solutions while following modern development practices."
+      " Worked on Sivett, a candidate hiring platform covering resume scoring, interviews, and related hiring workflows. Developed a regression test suite to verify that existing features keep working as the platform evolves. Worked on the UI design of the platform. "
   },
 
 ];
