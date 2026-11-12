@@ -36,7 +36,7 @@ export const skillGroups = [
   },
   {
     label: 'Front-End',
-    skills: ['Responsive Web Design', 'CSS', 'React.js ','Single Page Applications (SPA)'],
+    skills: ['Responsive Web Design', 'CSS', 'React.js', 'Single Page Applications (SPA)'],
   },
   {
     label: 'Back-End',
@@ -57,7 +57,7 @@ export const projects = [
     title: 'AI-Powered Smart Todo Application',
     description:
       'Built a full-stack AI-powered task management application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Integrated the Grok AI API to enable users to create, organize, update, and manage tasks through natural language commands. Designed a responsive and intuitive interface with secure authentication, real-time CRUD operations, and intelligent task automation.',
-    tags: ['React.js' ,' Node.js', ' Express.js ','MongoDB',' Grok API ',' JWT Authentication', 'REST APIs',' CSS'],
+    tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Grok API', 'JWT Authentication', 'REST APIs', 'CSS'],
     link: 'https://todo-frontend-coral-chi.vercel.app/todos',
   },
 //   {
@@ -85,11 +85,11 @@ export const projects = [
 export const workExperience = [
 
   {
-    role: "Full-StacK Web Developer Intern",
+    role: "Full-Stack Web Developer Intern",
     company: "AlgoLeap Technologies",
-    period: "Jun 2025 – sep 2025",
+    period: "Jun 2025 – Sep 2025",
     description:
-      " Worked on Sivett, a candidate hiring platform covering resume scoring, interviews, and related hiring workflows. Developed a regression test suite to verify that existing features keep working as the platform evolves. Worked on the UI design of the platform. "
+      "Worked on Sivett, a candidate hiring platform covering resume scoring, interviews, and related hiring workflows. Developed a regression test suite to verify that existing features keep working as the platform evolves. Worked on the UI design of the platform."
   },
 
 ];
